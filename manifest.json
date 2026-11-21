@@ -1,13 +1,14 @@
 {
-  "PackTag": "v1.0.0",
-  "ModsReleaseTag": "v1.0.0",
+  "PackTag": "v1.0.1",
+  "ModsReleaseTag": "v1.0.1",
   "MinecraftVersion": "1.21.1",
   "NeoForgeVersion": "",
   "Servers": [
     {
-      "Name": "Serv",
+      "Name": "\u0443\u0435\u0431\u0430\u043D\u044B",
       "Ip": "213.171.18.242:32719"
     }
   ],
-  "ModHashes": {}
+  "ModHashes": {},
+  "ModEntries": {}
 }
